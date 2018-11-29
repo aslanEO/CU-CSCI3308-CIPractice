@@ -2,3 +2,4 @@ os: linux
 script: make test
 sudo: required
 install: make dep
+language: c
